@@ -5,13 +5,11 @@ deposit or withdrawal takes place, it should be listed along with the date and t
 ## Used Technology :
 * Angular.js for client side code 
 * node.js for server side
-* Jasmine and Karma for testing
 
 ## Installation steps :
 * npm install
 * node server/index.js
 * Open http://localhost:3000/bank in your browser.
-* Alternatively check plunker http://plnkr.co/edit/3oZYct?p=preview or http://run.plnkr.co/plunks/3oZYct/
 
 In browser access the application below URL
 http://localhost:3000/bank#/login
